@@ -14,3 +14,6 @@ checking how features relate using a correlation heatmap
 libraries used: numpy, pandas, matplotlib, seaborn, scikit-learn
 
 check out the notebook for all the steps and visuals :)
+
+
+(not my own dataset)
